@@ -1,5 +1,5 @@
 {
-  "api-server": "http://3.235.193.139:3000/",
+  "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "2d",
   "storage-server": "",
   "img-count": 2,
