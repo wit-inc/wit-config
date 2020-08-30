@@ -1,0 +1,9 @@
+{
+  "api-server": "http://3.235.193.139:3000/",
+  "token-expiry": "2d",
+  "storage-server": "",
+  "img-count": 2,
+  "video-count": 1,
+  "img-size": 256,
+  "video-size": 10000
+}
