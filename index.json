@@ -1,9 +1,11 @@
 {
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "2d",
-  "storage-server": "",
+  "storage-server": "http://wit.vishnumanikantan.in:4200/",
   "img-count": 2,
   "video-count": 1,
-  "img-size": 256,
-  "video-size": 10000
+  "document-count": 1,
+  "img-size": 262144,
+  "video-size": 10485760,
+  "document-size": 10485760
 }
