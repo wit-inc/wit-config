@@ -1,6 +1,8 @@
 {
+  "success": true,
+  "version": "1.0.0",
   "api-server": "https://wit.vishnumanikantan.in/",
-  "token-expiry": "2d",
+  "token-expiry": 3600,
   "storage-server": "http://wit.vishnumanikantan.in:4200/",
   "img-count": 2,
   "video-count": 1,
