@@ -2,12 +2,12 @@
   "success": true,
   "message": "",
   "version": "1.0.0",
+  "forced_update": false
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "1d",
   "storage-server": "http://wit.vishnumanikantan.in:4200/",
-  "img-count": 2,
-  "video-count": 1,
-  "document-count": 1,
+  "upload-count-student": 5,
+  "upload-count-club": 8,
   "img-size": 5242880,
   "video-size": 10485760,
   "document-size": 10485760
