@@ -1,10 +1,11 @@
 {
   "success": true,
-  "message": "",
   "version": "1.0.0",
   "forced_update": false,
+  "message": "",
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "1d",
+  "notification_duration": "3600000"
   "storage-server": "http://wit.vishnumanikantan.in:4200/",
   "upload-count-student": 5,
   "upload-count-club": 8,
