@@ -5,7 +5,7 @@
   "message": "",
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "1d",
-  "notification_duration": "5000",
+  "notification_duration": "10000",
   "storage-server": "http://wit.vishnumanikantan.in:4200/",
   "upload-count-student": 5,
   "upload-count-club": 8,
