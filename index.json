@@ -1,7 +1,7 @@
 {
   "success": true,
   "version": "0.4.4",
-  "forced_update": true,
+  "forced_update": false,
   "message": "",
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "1d",
