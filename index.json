@@ -2,7 +2,7 @@
   "success": true,
   "version": "1.0.0",
   "forced_update": false,
-   "lock_down": true,
+   "lock_down": false,
   "message": "",
   "api-server": "https://wit.vishnumanikantan.in/",
   "token-expiry": "1d",
