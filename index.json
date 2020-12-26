@@ -4,7 +4,7 @@
   "forced_update": false,
    "lock_down": false,
   "message": "",
-  "api-server": "https://wit.vishnumanikantan.in/",
+  "api-server": "https://wit-api.vishnumanikantan.in/",
   "token-expiry": "1d",
   "notification_duration": "10000",
   "storage-server": "http://wit.vishnumanikantan.in:4200/",
