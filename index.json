@@ -1,7 +1,7 @@
 {
   "success": true,
-  "version": "1.0.0",
-  "forced_update": true,
+  "version": "1.0.1",
+  "forced_update": false,
    "lock_down": false,
   "message": "",
   "api-server": "https://wit-api.vishnumanikantan.in",
